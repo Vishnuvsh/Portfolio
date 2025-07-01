@@ -1,4 +1,4 @@
-import HeroImage from "../assets/image2.jpg";
+import HeroImage from "../assets/Image2.jpg";
 import { motion } from "framer-motion";
 
 export default function Home() {
